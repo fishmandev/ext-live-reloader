@@ -1,0 +1,11 @@
+{
+  "name": "Live reloader",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
